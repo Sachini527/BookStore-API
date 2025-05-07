@@ -6,7 +6,9 @@ A comprehensive RESTful API for managing a bookstore system, developed using Jav
 
 ## 🎥 Demo Video
 
-> 📺 [Watch the full video demonstration here](https://www.youtube.com/watch?v=jIiwV2VsR-I)  
+[![Watch the demo](DemoVedioScreenshot.png)](https://www.youtube.com/watch?v=jIiwV2VsR-I&t=51s)
+
+> 📺 Click the image above to watch the full video demonstration
 
 ---
 
